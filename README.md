@@ -3,4 +3,4 @@
 
  Estou aprendendo a criar sites e agora vou gerenciar meus repositórios!
 
-<a href="https://sarmentoadriel421-cell.github.io/html_css/erxecícios/ex001">
+<a href="https://sarmentoadriel421-cell.github.io/html_css/erxecícios/ex001/index.html">
